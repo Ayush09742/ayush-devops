@@ -12,3 +12,5 @@ print("i am perfect what about you ? ")
 b=input("where is your car ? huh ? U sold to someone")
 print("Ohh! i knew that thanks god")
 
+c=(input("Bhai Meri gaddi kharab Ho Gyi he kaise sahi kru ?"))
+print("theek he yrr thanks yr sahi kr dena")
